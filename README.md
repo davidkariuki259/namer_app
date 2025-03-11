@@ -1,2 +1,4 @@
 # namer_app
-simple flutter app as a first step
+
+A simple Flutter Project.
+Developed via the official codelab: https://codelabs.developers.google.com/codelabs/flutter-codelab-first
